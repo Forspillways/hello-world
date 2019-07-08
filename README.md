@@ -114,7 +114,7 @@ do time = 1, t_max
     end if
 
 end do
-
+write (6,*)'nice man'
 write (6,*) '======= end ========'
 16 format(i8,f15.8)
 end
